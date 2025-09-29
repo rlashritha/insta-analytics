@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pydantic
+motor  # MongoDB async driver
+python-jose  # for JWT
+passlib[bcrypt]  # for password hashing
+python-multipart  # if you want file uploads

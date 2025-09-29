@@ -1,0 +1,5 @@
+{
+  "name": "Insta Insights Dashboard",
+  "description": "A web application that displays the profile and analytics of an Instagram influencer by using the Gemini API to generate dynamic, realistic mock data.",
+  "requestFramePermissions": []
+}
